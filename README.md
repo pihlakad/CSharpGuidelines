@@ -1,6 +1,6 @@
 # CSharp Guidelines
 
-# 1. Naming Guidelines
+## 1. Naming Guidelines
 ### Don't repeat the name of a class or enumeration in its members
 
 ```csharp
@@ -15,7 +15,7 @@ class Food {
 }
 ```
 
-# 2. Documentation Guidelines
+## 2. Documentation Guidelines
 
 ### Write comments and documentation in English
 
